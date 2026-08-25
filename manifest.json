@@ -1,9 +1,0 @@
-{
-  "name":"Three Do List",
-  "short_name":"Three Do",
-  "start_url":"./index.html",
-  "display":"standalone",
-  "background_color":"#f5f8fc",
-  "theme_color":"#3989df",
-  "icons":[]
-}
